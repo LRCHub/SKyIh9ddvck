@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "【歌ってみた】シンデレラボーイ covered by 燈",
+  "base_artist": "MyGO!!!!!",
+  "createdAt": "2025-12-01T05:05:59.216264Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シンデレラボーイ",
+      "artist": "Saucy Dog",
+      "has_synced": false,
+      "path": "select/pl_01_シンデレラボーイ_Saucy_Dog.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "シンデレラボーイ",
+      "artist": "Saucy Dog",
+      "has_synced": false,
+      "path": "select/pl_02_シンデレラボーイ_Saucy_Dog.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "シンデレラボーイ",
+      "artist": "Saucy Dog",
+      "has_synced": false,
+      "path": "select/pl_03_シンデレラボーイ_Saucy_Dog.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "シンデレラボーイ",
+      "artist": "Saucy Dog",
+      "has_synced": false,
+      "path": "select/pl_04_シンデレラボーイ_Saucy_Dog.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "シンデレラボーイ",
+      "artist": "Saucy Dog",
+      "has_synced": false,
+      "path": "select/pl_05_シンデレラボーイ_Saucy_Dog.txt"
+    }
+  ]
+}
